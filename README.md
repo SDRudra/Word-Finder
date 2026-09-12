@@ -12,7 +12,7 @@ Duplicate-entry prevention
 Student-focused vocabulary management
 Simple and organized interface
 Gemini AI integration
-Screenshot_20260911-201257 Screenshot_20260911-201155 Screenshot_20260911-201143
+
 What I Learned
 
 This is my first app.While building the app, I explored AI integration, structured data management, user input handling, duplicate detection, and designing an interface around a practical student need.
