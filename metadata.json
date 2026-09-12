@@ -1,0 +1,7 @@
+{
+  "name": "Word Finder",
+  "description": "Smart vocabulary spreadsheet and word finder with auto-populated synonyms and antonyms, duplicate entry alerts across all words, project management, CSV export, and background Gemini AI lookup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
