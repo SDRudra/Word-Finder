@@ -1,22 +1,18 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+Word finder is a spreadsheet-style learning tool designed to help students build and organize their vocabulary.
 
-# Run and deploy your AI Studio app
+Students can add words to their personal word list and use Gemini AI to find relevant synonyms and antonyms. The app also prevents duplicate entries, keeping the vocabulary list organized and making it easier for students to review their words.
 
-This contains everything you need to run your app locally.
+I built this project to combine AI, organization, and vocabulary learning into a simple tool that students can actually use. It also allowed me to explore how AI can be integrated into an application to make a common learning task more efficient.
 
-View your app in AI Studio: https://ai.studio/apps/eb1a646c-cfc9-4760-9623-58023ed54a70
+Key Features
 
-## Run Locally
+Spreadsheet-style word organization
+AI-powered synonym and antonym generation
+Duplicate-entry prevention
+Student-focused vocabulary management
+Simple and organized interface
+Gemini AI integration
+Screenshot_20260911-201257 Screenshot_20260911-201155 Screenshot_20260911-201143
+What I Learned
 
-**Prerequisites:**  [Android Studio](https://developer.android.com/studio)
-
-
-1. Open Android Studio
-2. Select **Open** and choose the directory containing this project
-3. Allow Android Studio to fix any incompatibilities as it imports the project.
-4. Create a file named `.env` in the project directory and set `GEMINI_API_KEY` in that file to your Gemini API key (see `.env.example` for an example)
-5. Remove this line from the app's `build.gradle.kts` file: `signingConfig = signingConfigs.getByName("debugConfig")`
-6. Run the app on an emulator or physical device
-7. If you have already published your app in AI Studio, please [request upload key reset](https://support.google.com/googleplay/android-developer/answer/9842756#zippy=%2Crequest-an-upload-key-reset) in Google Play Console.
+This is my first app.While building the app, I explored AI integration, structured data management, user input handling, duplicate detection, and designing an interface around a practical student need.
